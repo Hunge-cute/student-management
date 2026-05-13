@@ -1,0 +1,16 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.log
+staticfiles/
+media/
+server.log
+server_out.log
+server_err.log
+check_*.py
+test_*.py
+fix_*.py
